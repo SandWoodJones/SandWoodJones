@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandWoodJones
 - 👀 I’m interested in Artificial Intelligence, Machine Learning and Game Development
-- 🌱 I’m currently learning Rust and Kotlin
+- 🌱 I’m currently learning Rust and OpenGL
 - 💞️ I’m looking to collaborate on stuff
 
 <!---
